@@ -26,11 +26,11 @@ until all accounts were banned, scrap stop.
 # please set this to your own, this is fake accounts
 accounts = [
     {
-        "id": '99567',
-        "password": '968077',
+        "id": '997562867@qq.com',
+        "password": '1qaz@WSX',
     },
-    {
-        "id": '4675879',
-        "password": '54675486',
-    },
+    # {
+    #     "id": '4675879',
+    #     "password": '54675486',
+    # },
 ]
